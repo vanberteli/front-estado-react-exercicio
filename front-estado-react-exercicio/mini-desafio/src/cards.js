@@ -13,13 +13,19 @@ const cards = [
     turned: false
   },
   {
-    id: 2,
+    id: 7,
+    slug: 'nodejs',
+    image: Nodejs,
+    turned: false
+  },
+  {
+    id: 3,
     slug: 'htmlcss',
     image: HtmlCss,
     turned: false
   },
   {
-    id: 3,
+    id: 2,
     slug: 'htmlcss',
     image: HtmlCss,
     turned: false
@@ -34,12 +40,6 @@ const cards = [
     id: 6,
     slug: 'netlify',
     image: Netlify,
-    turned: false
-  },
-  {
-    id: 7,
-    slug: 'nodejs',
-    image: Nodejs,
     turned: false
   },
   {
@@ -67,15 +67,15 @@ const cards = [
     turned: false
   },
   {
-    id: 12,
-    slug: 'react',
-    image: React,
-    turned: false
-  },
-  {
     id: 5,
     slug: 'heroku',
     image: Heroku,
+    turned: false
+  },
+  {
+    id: 12,
+    slug: 'react',
+    image: React,
     turned: false
   },
 ]
